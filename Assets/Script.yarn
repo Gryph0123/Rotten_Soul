@@ -1,0 +1,136 @@
+title: Start
+tags:
+position: -11,-162
+---
+You stand in front of the counter, hands in the sink. You scrub off the dishes and hand them over to your mother who then drys them and places them in the proper cupboard.
+A cool spring wind blows in through the window in front of you. It was a rough winter this year. Many struggled to keep afloat with all they had harvested during the fall.
+Because of this, many are happy to see the return of the growing seasons and a sense of hope fills your town. 
+Outside the window, the sound of a distant calliope rings in through the window.
+What do you do?
+-> Investigate
+    <<jump Investigate>>
+-> Stay home
+    <<jump Stay>>
+===
+
+title: Investigate
+position: -358,85
+---
+You and your mother finish up the dishes and head out towards the music. Outside, other townspeople are also out and about, walking towards where the carnival had set up.
+As you continue to walk, you begin to see the warm glow of lights within a handful of tents set up in the field at the edge of town. In addition, a stage and a few vendors have also been set up.
+Mother: Exciting, huh?
+What do you do?
+-> Get food
+    <<jump Food>>
+-> Check out the stage
+    <<jump Clown_time>>
+===
+
+title: Food
+position: 134,251
+---
+You and your mother head out towards the vendors.
+What do you want?
+-> Popcorn
+    <<jump Popcorn>>
+-> Cotton Candy
+    <<jump Cotton_candy>>
+===
+
+title: Popcorn
+position: 399,633
+---
+You get popcorn and head over to the stage.
+<<jump Clown_time>>
+===
+
+title: Cotton_candy
+position: 128,731
+---
+You get cotton candy and head over to the stage.
+<<jump Clown_time>>
+===
+
+title: Clown_time
+position: -259,350
+---
+A large crowd has formed around the stage. Coloured spotlights dance across the makeshift wooden floor and the calliope continues to bellow its music.
+Your mother turns to one of your neighbours in the crowd. 
+Mother: Hello again, Elin, do you know what this is all about?
+Elin: I'm as clueless as you are, darling. It's obviously some kind of performance.
+Your mother nods and looks back up to the stage.
+A few moments pass and a man wearing a large colourful robe walks onto the stage.
+His movements seem slightly unnatural, his smile appears a bit too wide for his head.
+???: Hello my people! How are we on this wonderful twilight?
+The crowd lets out a half-hearted cheer.
+???: Oh come on, you can do better than that! Let me hear your beautiful voices!
+The crowd lets out a slightly more enthusiastic cheer.
+The man seems happy with the response. 
+???: Thank you, thank you all for coming out.
+???: My name is Kasiel and I am the ringmaster of The Ksaxlet Carnival.
+Kasiel: Tonight, I will share with you a thread of the sublime, a glimpse into something beyond and above your pitiful world.
+The crowd murmurs.
+Kasiel gestures to one side of the stage and another person appears, pushing a cart.
+On the cart is a vaguely round object covered in a thick black cloth. People further away from the stage crane their necks to get a better view of the strange object.
+For a moment, your eyes wander over to the empty end of the field. Floating near the edge of the forest is a group of fireflies, lighting up the trees in a warm light.
+What do you do?
+-> Investigate
+    <<jump Investigate_fireflies>>
+-> Stay
+    <<jump Stay_in_crowd>>
+===
+
+title: Investigate_fireflies
+position: -147,630
+---
+You break away from the crowd, sprinting towards the floating lights.
+You attempt to catch some of the fireflies on your hands.
+A few moments pass and behind you, you hear the crowd laughing in the distance.
+You ignore the noise behind you and continue trying to catch the luminous insects.
+Some more time passes. You catch a couple of flies but they eventually dissipate.
+Without the distraction of the flies, you realize there's a dull crackling noise in the air.
+You also realize that you have wandered fairly deep into the forest and are unable to see your village.
+You follow the crackling sounds and begin to notice that grey flecks are filling the air. A dense fog that stings your eyes also grows thicker.
+You emerge from the forest to find that your town, your home, everything that you have known has burned to ashes.
+The charred corpse of what was once your life lays sprawled before you.
+The carnival tents, calliope, vendors, and stage are now gone.
+===
+
+title: Stay_in_crowd
+position: -390,653
+---
+You return your attention to Kasiel.
+Kasiel: I can see it in your eyes... throughout you have been searching for something.
+Kasiel: Tonight it will be yours, tonight you shall be free of want. Would you like that?
+Many of the townspeople cheer out. Others look around in confusion and talk among themselves.
+Kasiel's grin widens to an unnatural length as he reaches for the edge of the cloth.
+The cloth is torn away.
+You see it. You see it all. Time folds in on itself as you become one with everything and nothing and something.
+Nothing is unseen, you see everything and everything sees you. Space folds outwards, creating unspoken infinities.
+You see Mother Nature's true face. All rules all logic, all meaning come crashing to the ground and break like charcoal.
+You see the inherent rot in all things, you can feel it in yourself. You wish to scream, to express the terror, wonder, and pain but nothing but thick black smoke comes out of your lungs.
+===
+
+title: Stay
+position: 253,-17
+---
+You and your mother finish up the dishes and decide to stay. You watch TV as your mother knits behind you.
+Between cartoons, an ad comes up for war bonds.
+A little while passes and a knock sounds at the door.
+Your mother opens the door to find your neighbour, Elin.
+Mother: Oh, hello Elin, nice to see you! Come in, would you like some tea?
+Elin: I think I'll pass tonight but thank you, darling. Anyways, are you aware that there's a carnival in town?
+Mother: Ah, yes, heard the calliope outside.
+Elin: I thought it might be nice for you and Axalia to get out, you know? Have some bonding time? I'll pay for any expenses.
+Mother: My, thank you! Are you sure?
+Elin: Oh, don't worry about it, my treat!
+You and your mother head out towards the music. Outside, other townspeople are also out and about, walking towards where the carnival had set up.
+As you continue to walk, you begin to see the warm glow of lights within a handful of tents set up in the field at the edge of town. In addition, a stage and a few venues have also been set up.
+Mother: Exciting, huh?
+What do you do?
+-> Get food
+    <<jump Food>>
+-> Check out the stage
+    <<jump Clown_time>>
+===
+
